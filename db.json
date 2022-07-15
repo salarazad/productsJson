@@ -1,39 +1,39 @@
 {
 	"products" : [
-	      {        
-	              "id": "0",
-                      "itemName": "cooler water",
-		      "itemSize": "17L",
-		      "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/water_17L_container2.png",
-                      "itemPrice": "2000 IQD"
-	      },
-	      {
-		      "id": "1",
-                      "itemName": "jaam water",
-	              "itemSize": "200cc",
-		      "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/water_200cc_glass.png",
-                      "2250 IQD"
-	      },
-	      {
-		      "id": "2",
-                      "itemName": "water bottle",
-		      "itemSize": "0.5L",
-		      "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/waterBottle_0.5L_box.png",
-                      "itemPrice": "1000 IQD"
-	      },
-              {
-		      "id": "3",
-                      "itemName": "water bottle",
-		      "itemSize": "0.33L",
-		      "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/waterBottle_0.33L_box.png",
-                      "itemPrice": "1750 IQD"
-	      },
-              {
-		      "id": "4",
-                      "itemName": "water bottle",
-		      "itemSize": "1.5L",
-		      "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/waterBottle_1.5L_box.png",
-                      "itemPrice": "1250 IQD"
-	      }
+	      	   {
+			   "id": "0",
+                      	   "itemName": "cooler water",
+		           "itemSize": "17L",
+		           "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/water_17L_container2.png",
+                           "itemPrice": "2000 IQD"
+	      	   },
+	      	   {
+		           "id": "1",
+			   "itemName": "jaam water",
+	              	   "itemSize": "200cc",
+			   "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/water_200cc_glass.png",
+			   "2250 IQD"
+		   },
+		   {
+		           "id": "2",
+                           "itemName": "water bottle",
+		           "itemSize": "0.5L",
+		           "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/waterBottle_0.5L_box.png",
+                           "itemPrice": "1000 IQD"
+		   },
+		   {
+			   "id": "3",
+                           "itemName": "water bottle",
+		           "itemSize": "0.33L",
+		           "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/waterBottle_0.33L_box.png",
+                           "itemPrice": "1750 IQD"
+		   },
+		   {
+			   "id": "4",
+			   "itemName": "water bottle",
+			   "itemSize": "1.5L",
+			   "itemImage": "https://raw.githubusercontent.com/salarazad/productsJson/main/waterBottle_1.5L_box.png",
+			   "itemPrice": "1250 IQD"
+		   }
 	]
 }
